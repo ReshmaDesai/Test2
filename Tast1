@@ -3,6 +3,7 @@
     </head>
          <body>
            <input type="text" value="A">
+              <input type="text" value="B">
            </body>
         </Html>
         
