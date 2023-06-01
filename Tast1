@@ -4,6 +4,7 @@
          <body>
            <input type="text" value="A">
               <input type="text" value="B">
+              <input type="text" value="C">
            </body>
         </Html>
         
